@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="try-spring-boot-helloworld" target="1.8" />
+      <module name="try-spring-boot-project" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
